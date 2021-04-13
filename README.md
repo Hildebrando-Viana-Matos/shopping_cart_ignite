@@ -53,7 +53,7 @@ If you don1t have npm in your local machine, install now:
   ```
 3. Run the development server:
   ```bash
-  yarn dev
+  yarn start
   ```
 4. And now, you can go to your browser to go to localhost
 
