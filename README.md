@@ -23,7 +23,7 @@
 <hr>
 
 ## About The Project
-<p>Welcome to the dtmoney project. This is a shopping cart system, where the user selects the products and the application adds the product to the cart and automatically calculates the final price. I did this project at Rocketseat Ignite Bootcamp.</p>
+<p>Welcome to the shopping_cart_ignite project. This is a shopping cart system, where the user selects the products and the application adds the product to the cart and automatically calculates the final price. I did this project at Rocketseat Ignite Bootcamp.</p>
 
 ### Built With
 I used some web technologies in order to train:mortar_board::
