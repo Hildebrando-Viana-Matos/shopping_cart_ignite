@@ -15,7 +15,6 @@
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
@@ -57,10 +56,6 @@ If you don1t have npm in your local machine, install now:
   yarn dev
   ```
 4. And now, you can go to your browser to go to localhost
-
-## Usage
-
-You can calculate all your money in one application easily.
 
 ## Contributing
 
